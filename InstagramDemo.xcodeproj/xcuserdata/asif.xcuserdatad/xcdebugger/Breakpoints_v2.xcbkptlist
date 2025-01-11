@@ -1,0 +1,215 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "92FC7464-F822-4CD2-A653-4B7A5C665100"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "76CE2944-1938-4FBF-A281-B78A2A36B326"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "InstagramDemo/View/NotificationCell.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "65"
+            endingLineNumber = "65"
+            landmarkName = "handleFollowTapped()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "76CE2944-1938-4FBF-A281-B78A2A36B326 - 29e14de9d417143f"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "InstagramDemo.NotificationCell.handleFollowTapped() -&gt; ()"
+                  moduleName = "InstagramDemo"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/asif/Desktop/InstagramDemo/InstagramDemo/View/NotificationCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "65"
+                  endingLineNumber = "65"
+                  offsetFromSymbolStart = "196">
+               </Location>
+               <Location
+                  uuid = "76CE2944-1938-4FBF-A281-B78A2A36B326 - 29e14de9d417143f"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "InstagramDemo.NotificationCell.handleFollowTapped() -&gt; ()"
+                  moduleName = "InstagramDemo"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/asif/Desktop/InstagramDemo/InstagramDemo/View/NotificationCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "65"
+                  endingLineNumber = "65"
+                  offsetFromSymbolStart = "148">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "D780D8EC-8B07-4399-98CE-C63C4D867EBC"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "InstagramDemo/View/NotificationCell.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "68"
+            endingLineNumber = "68"
+            landmarkName = "handleFollowTapped()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "D780D8EC-8B07-4399-98CE-C63C4D867EBC - 29e14de9d4171790"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "InstagramDemo.NotificationCell.handleFollowTapped() -&gt; ()"
+                  moduleName = "InstagramDemo"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/asif/Desktop/InstagramDemo/InstagramDemo/View/NotificationCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "68"
+                  endingLineNumber = "68"
+                  offsetFromSymbolStart = "636">
+               </Location>
+               <Location
+                  uuid = "D780D8EC-8B07-4399-98CE-C63C4D867EBC - 29e14de9d4171790"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "InstagramDemo.NotificationCell.handleFollowTapped() -&gt; ()"
+                  moduleName = "InstagramDemo"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/asif/Desktop/InstagramDemo/InstagramDemo/View/NotificationCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "68"
+                  endingLineNumber = "68"
+                  offsetFromSymbolStart = "428">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "C9B40023-2212-43C1-BD1D-398B016FE89B"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "InstagramDemo/View/NotificationCell.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "64"
+            endingLineNumber = "64"
+            landmarkName = "handleFollowTapped()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "C9B40023-2212-43C1-BD1D-398B016FE89B - 29e14de9d417141c"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "InstagramDemo.NotificationCell.handleFollowTapped() -&gt; ()"
+                  moduleName = "InstagramDemo"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/asif/Desktop/InstagramDemo/InstagramDemo/View/NotificationCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "64"
+                  endingLineNumber = "64"
+                  offsetFromSymbolStart = "148">
+               </Location>
+               <Location
+                  uuid = "C9B40023-2212-43C1-BD1D-398B016FE89B - 29e14de9d417141c"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "InstagramDemo.NotificationCell.handleFollowTapped() -&gt; ()"
+                  moduleName = "InstagramDemo"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/asif/Desktop/InstagramDemo/InstagramDemo/View/NotificationCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "64"
+                  endingLineNumber = "64"
+                  offsetFromSymbolStart = "44">
+               </Location>
+               <Location
+                  uuid = "C9B40023-2212-43C1-BD1D-398B016FE89B - 29e14de9d417141c"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "InstagramDemo.NotificationCell.handleFollowTapped() -&gt; ()"
+                  moduleName = "InstagramDemo"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/asif/Desktop/InstagramDemo/InstagramDemo/View/NotificationCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "64"
+                  endingLineNumber = "64"
+                  offsetFromSymbolStart = "128">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "13DCA789-2959-47BA-BEE4-2A8CAB91C918"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "InstagramDemo/View/NotificationCell.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "74"
+            endingLineNumber = "74"
+            landmarkName = "handlePostTapped()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "13DCA789-2959-47BA-BEE4-2A8CAB91C918 - d94df5bb1a646605"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "InstagramDemo.NotificationCell.handlePostTapped() -&gt; ()"
+                  moduleName = "InstagramDemo"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/asif/Desktop/InstagramDemo/InstagramDemo/View/NotificationCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "74"
+                  endingLineNumber = "74"
+                  offsetFromSymbolStart = "344">
+               </Location>
+               <Location
+                  uuid = "13DCA789-2959-47BA-BEE4-2A8CAB91C918 - d94df5bb1a646605"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "InstagramDemo.NotificationCell.handlePostTapped() -&gt; ()"
+                  moduleName = "InstagramDemo"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/asif/Desktop/InstagramDemo/InstagramDemo/View/NotificationCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "74"
+                  endingLineNumber = "74"
+                  offsetFromSymbolStart = "124">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
